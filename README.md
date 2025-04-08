@@ -11,10 +11,8 @@ This repo contains all **11 hands-on experiments** crafted using **Flutter** and
 
 - 🌐 **Flutter** & **Dart**
 - 📱 **Android Studio**
-- 🔗 **Firebase / SQLite / REST APIs**
 - 🗺️ **Google Maps & GPS**
 - 🎨 **UI Elements**: Grid, Cards, Navigation Drawer
-- 🎥 **Multimedia Handling**
 - 🎮 **Gaming Logic with Flutter**
 
 ---
