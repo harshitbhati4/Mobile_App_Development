@@ -39,7 +39,7 @@
 | 🧪 No. | 📖 Title | 📅 Date | 🔗 Folder |
 |-------|----------|---------|-----------|
 | 7 | Grid Menu UI + Image Gallery | 03 Apr 2025 | [Exp7](https://github.com/harshitbhati4/Mobile_App_Development/tree/main/Experiments/Exp7) |
-| 8 | DB Integration (Firebase/SQLite/API) | Self-paced | | [Exp8](https://github.com/harshitbhati4/Mobile_App_Development/tree/main/Experiments/Exp8) | [Exp8]
+| 8 | DB Integration (Firebase/SQLite/API) | Self-paced | [Exp8](https://github.com/harshitbhati4/Mobile_App_Development/tree/main/Experiments/Exp8) |
 | 9 | App using GPS location services | 04 Apr 2025 | [Exp9](https://github.com/harshitbhati4/Mobile_App_Development/tree/main/Experiments/Exp9) |
 | 10 | Handle Images & Videos by Size | 04 Apr 2025 | [Exp10](https://github.com/harshitbhati4/Mobile_App_Development/tree/main/Experiments/Exp10) |
 | 11 | Flutter-based Game Application | 5 April 2025 | [Exp11](https://github.com/harshitbhati4/Mobile_App_Development/tree/main/Experiments/Exp11) |
